@@ -1,0 +1,177 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.Div_Heading {
+  background-color: #333333;
+  border-bottom: 2px solid indianred;
+  padding-left: 130px;
+  padding: 15px 0px 15px 60px;
+  margin-bottom: 0px
+}
+
+.Div_Image {
+  background-color: #dddddd;
+  height: 350px;
+  padding-top: 150px;
+  background-image: url("../img/фон.png");
+}
+
+
+h1 {
+  color: indianred;
+  font-size: 25px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  display: inline;
+  margin-right: 550px;
+}
+
+.Heading_Image {
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  margin-bottom: 50px;
+  color: silver;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Link_Community {
+  color: indianred;
+  list-style: none;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.After_Pictures {
+  background-color: #333333;
+  padding-left: 130px;
+  padding: 15px 0px 15px 60px;
+  margin-bottom: 0px;
+  border-top: 2px solid indianred;
+  box-shadow: 0 0 10px black;
+  margin-bottom: 40px;
+  
+}
+
+.Link_Forum {
+  color: indianred;
+  list-style: none;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.Text_B_Bottom {
+  color: #aaaaaa;
+  text-align: center;
+  
+}
+
+.Div_KwizyMess {
+  background-color: white;
+  width: 120px;
+  height: 120px;
+  background-image: url("../img/KwizMessImg.png");
+  background-size: 120px 120px;
+  background-repeat: no-repeat;
+  box-shadow: none;
+  margin-left: 120px;
+  margin-right: 195px;
+
+}
+
+.A_KwizMess { 
+  position: relative;
+  left: 14px;
+  top: 130px;
+  font-size: 20px;
+  list-style: none;
+  color: black;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  height: 120px;
+  width: 120px;
+}
+
+.A_KwizForum { 
+  position: relative;
+  left: 30px;
+  top: 130px;
+  font-size: 20px;
+  list-style: none;
+  color: black;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  height: 120px;
+  width: 120px;
+}
+
+.P_KwizMess {
+  position: relative;
+  top: 120px;
+  text-align: center;
+  height: 120px;
+  width: 120px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.H2_Groceries {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.Div_KwizyForum {
+  background-color: white;
+  width: 120px;
+  height: 120px;
+  background-image: url("../img/KwizFor.png");
+  background-size: 120px 120px;
+  background-repeat: no-repeat;
+  box-shadow: none;
+  margin-right: 195px;
+}
+
+.Div_Prost{
+  background-color: white;
+  width: 120px;
+  height: 120px;
+  background-image: url("../img/KwizProst.png");
+  background-size: 75px 120px;
+  background-repeat: no-repeat;
+  box-shadow: none; 
+}
+
+.A_KwizProst {
+  position: relative;
+  left: 7px;
+  top: 130px;
+  font-size: 20px;
+  list-style: none;
+  color: black;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  height: 120px;
+  width: 120px;
+}
+
+.P_KwizProst {
+  position: relative;
+  top: 120px;
+  text-align: center;
+  right: 20px;
+  height: 120px;
+  width: 120px;
+  font-family: Arial, Helvetica, sans-serif;
+} 
+
+
+.Div_In_Div {
+  display: flex;
+}
